@@ -1,4 +1,4 @@
-# TX DOT SPY
+# TXDOT SPY
 
 ![](https://github.com/id0d1a/TXDOT-SPY/blob/main/Screenshot%20Capture%20-%202022-08-03%20-%2004-29-08.png?raw=true)
 ## What is this
