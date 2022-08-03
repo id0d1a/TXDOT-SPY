@@ -16,5 +16,5 @@ Great for hands free use in the car and one tap enlarges the camera snapshot.
 
 ## Credits
 
-https://gist.github.com/bduhan/0065a989bfec9b2ced366e6738fa6464
-https://its.txdot.gov/its
+- https://gist.github.com/bduhan/0065a989bfec9b2ced366e6738fa6464
+- https://its.txdot.gov/its
